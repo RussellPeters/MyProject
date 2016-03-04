@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 浅蓝色 -->
+    <color name="light_blue">#4fc1e9</color>
+    <!-- 深蓝色 -->
+    <color name="deep_blue">#006789</color>
+    <!-- 黑色 -->
+    <color name="black">#ff000000</color>
+    <!-- 红色 -->
+    <color name="red">#D96D77</color>
+    <!-- 浅灰色背景 -->
+    <color name="light_gray_bg">#F5F5F5</color>
+    <!-- 浅灰色分隔线 -->
+    <color name="light_gray_line">#ECECEC</color>
+    <!-- 橙色 -->
+    <color name="orange">#f18716</color>
+    <!-- 大红色 -->
+    <color name="big_red">#CD1E32</color>
+    <!-- 主菜单底部浅灰色 -->
+    <color name="main_menu_gray">#95AEB4</color>
+    <!-- 对话框背景色 -->
+    <color name="dialog_bg">#FAFAFB</color>
+    <!-- 对话框按钮按下效果色 -->
+    <color name="dialog_bg_pressed">#ffffffff</color>
+    <!-- map文字浅蓝色 -->
+    <color name="map_light_blue">#79CFF0</color>
+    <!-- 列表item蓝色 -->
+    <color name="list_item_blue">#B2E0F4</color>
+    <!-- 列表item灰色 -->
+    <color name="list_item_gray">#E0E0E0</color>
+    <!-- 未读消息提醒气泡背景红色 -->
+    <color name="notice_red">#CF0000</color>
+    <!-- tab背景色 -->
+    <color name="tab_bg">#006789</color>
+    <!-- tab按钮色 -->
+    <color name="tab_btn_normal">#00526E</color>
+    <!-- tab按下色 -->
+    <color name="tab_btn_click">#30B8F3</color>
+    <!-- 状态报备 3种状态颜色 -->
+    <color name="report_orange">#EECA00</color>
+    <color name="report_green">#00C12C</color>
+    <color name="report_gray">#A5A5A5</color>
+    <!-- 透明色 -->
+    <color name="map_location">#00000000</color>
+
+    <!-- 蓝色按钮点击效果色 -->
+    <color name="blue_btn_pressed">#1085b6</color>
+    <!-- 绿色按钮点击效果色 -->
+    <color name="green_btn_pressed">#109e00</color>
+    <!-- 黄色按钮点击效果色 -->
+    <color name="yellow_btn_pressed">#b99d00</color>
+    <!-- 红色按钮点击效果色 -->
+    <color name="red_btn_pressed">#bb113d</color>
+    <!-- 深蓝色按钮点击效果色 -->
+    <color name="deepblue_btn_pressed">#16b0f1</color>
+
+    <!-- loading深灰色边框 -->
+    <color name="loading_hui">#535353</color>
+
+    <!-- 橙色按钮点击效果色 -->
+    <color name="orange_btn_pressed">#bd6910</color>
+
+    <!-- 约租业务查询列表项底色 -->
+    <color name="history_query_red">#F8AAAA</color>
+    <color name="history_query_green">#AAF8AA</color>
+    <color name="history_query_yellow">#F8E6AA</color>
+
+    <!-- 如约红色 -->
+    <color name="ry_red">#9C1F31</color>
+
+    <item name="gray" type="color">#FF323A45</item>
+    <item name="gray_drawable" type="drawable">#FF2c5aa9</item>
+    <item name="title_bg" type="color">#FF2c5aa9</item>
+    <item name="blue" type="color">#1d83ce</item>
+
+    <drawable name="transparent">#00000000</drawable>
+
+    <color name="white">#FFFFFF</color>
+    <color name="text_color">#414141</color>
+    <color name="ldrawer_color">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+
+    <item name="drawer_bg_color_normal" type="color">#00ffffff</item>
+    <item name="drawer_bg_color_press" type="color">#ffeeeeee</item>
+    <item name="drawer_bg_color_white" type="color">#ff2d353f</item>
+    <item name="drawer_bg_color_divide" type="color">#ff243040</item>
+    <item name="drawer_bg_color_bottom" type="color">#ff1e2733</item>
+
+    <color name="card_pressed">#19000000</color>
+    <color name="card_normal">#e6ffffff</color>
+    <color name="red_500">#F44336</color>
+    <color name="red_200">#EF9A9A</color>
+    <color name="blue_500">#2196F3</color>
+    <color name="blue_200">#90CAF9</color>
+    <color name="background_tab_pressed">#ffffff</color>
+    <color name="green_6a">#FF2c5aa9</color>
+    <color name="gplus_color_1">#3e802f</color>
+    <color name="gplus_color_2">#f4b400</color>
+    <color name="gplus_color_3">#427fed</color>
+    <color name="gplus_color_4">#b23424</color>
+	
+    
+    <color name="solid_white">#ffffffff</color>
+    <color name="secondary_text">#ff999999</color>
+    
+    <integer-array name="gplus_colors">
+        <item>@color/gplus_color_1</item>
+        <item>@color/gplus_color_2</item>
+        <item>@color/gplus_color_3</item>
+        <item>@color/gplus_color_4</item>
+    </integer-array>
+
+</resources>

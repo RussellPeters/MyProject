@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\parttime\\MyProject\\cameraProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "F:\\parttime\\MyProject\\cameraProject\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\parttime\\MyProject\\cameraProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\round_corner_progress_icon.png",
+        "source": "F:\\parttime\\MyProject\\cameraProject\\build\\intermediates\\exploded-aar\\MyProject\\gciNutil\\unspecified\\res\\drawable-xxhdpi-v4\\round_corner_progress_icon.png"
+    }
+]

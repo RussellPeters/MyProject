@@ -1,0 +1,181 @@
+#-optimizationpasses 5
+#-dontusemixedcaseclassnames
+#-dontskipnonpubliclibraryclasses
+#-dontpreverify
+#-verbose
+#-optimizations
+# !code/simplification/arithmetic,!field/*,!class/merging/*
+#
+#-keep public class * extends android.app.Activity
+#-keep public class * extends android.app.Application
+#-keep public class * extends android.app.Service
+#-keep public class * extends android.content.BroadcastReceiver
+#-keep public class * extends android.content.ContentProvider
+#-keep public class * extends android.app.backup.BackupAgentHelper
+#-keep public class * extends android.preference.Preference
+#-keep public class com.android.vending.licensing.ILicensingService
+#
+#-keep public class * {
+#     public <methods>;
+#}
+#
+#
+#-keepclassmembers enum * {
+#    public static **[] values();
+#    public static ** valueOf(java.lang.String);
+#}
+#
+#-keep class * implements android.os.Parcelable {
+#  public static final android.os.Parcelable$Creator *;
+#}
+#
+#-dontwarn com.slidingmenu.**
+#-keep class com.slidingmenu.** {*;}
+#
+#
+#-dontwarn com.unionpay.**
+#-keep class com.unionpay.** {*;}
+#
+#-dontwarn com.baidu.android.**
+#-keep class com.baidu.android.** {*;}
+#
+#-dontwarn com.unionpay.mobile.android.**
+#-keep class com.unionpay.mobile.android.** {*;}
+#
+#-dontwarn com.bbpos.cswiper.**
+#-keep class com.bbpos.cswiper.** {*;}
+#
+#-dontwarn com.UCMobile.PayPlugin.**
+#-keep class com.UCMobile.PayPlugin.** {*;}
+#
+#-dontwarn android.support.v4.**
+#-keep class android.support.v4.** {*;}
+#
+#-dontwarn com.amap.**
+#-keep class com.amap.** {*;}
+#
+#-dontwarn com.autonavi.amap.mapcore.**
+#-keep class com.autonavi.amap.mapcore.** {*;}
+#
+#-dontwarn com.google.gson.**
+#-keep class com.google.gson.** {*;}
+#
+#-dontwarn org.gradle.**
+#-keep class org.gradle.** {*;}
+#
+#-dontwarn com.uroad.**
+#-keep class com.uroad.** {*;}
+#
+#-dontwarn com.baidu.android.pay.**
+#-keep class com.baidu.android.pay.** {*;}
+#
+#-dontwarn com.baidu.mtjstatsdk.**
+#-keep class com.baidu.mtjstatsdk.** {*;}
+#
+#-dontwarn com.baidu.android.bba.common.**
+#-keep class com.baidu.android.bba.common.** {*;}
+#
+#-dontwarn com.amap.api.services.**
+#-keep class com.amap.api.services.** {*;}
+#
+#-dontwarn com.tencent.mm.**
+#-keep class com.tencent.mm.** {*;}
+#
+#-dontwarn com.alipay.android.app.**
+#-keep class com.alipay.android.app.** {*;}
+#
+#-dontwarn com.google.zxing.**
+#-keep class com.google.zxing.** {*;}
+#
+#-dontwarn com.amap.api.location.**
+#-keep class com.amap.api.location.** {*;}
+#
+#-dontwarn com.fourmob.datetimepicker**
+#-keep class com.fourmob.datetimepicker.** {*;}
+#
+#-dontwarn com.nineoldandroids.**
+#-keep class com.nineoldandroids.** {*;}
+#
+#-dontwarn com.sleepbot.datetimepicker.**
+#-keep class com.sleepbot.datetimepicker.** {*;}
+#
+#-dontwarn com.gci.yueche.net.model.**
+#-keep class com.gci.yueche.net.model.** {*;}
+#
+#-dontwarn com.gci.passenger.http.model.**
+#-keep class com.gci.passenger.http.model.** {*;}
+#
+#-dontwarn com.iflytek.**
+#-keep class com.iflytek.** {*;}
+#
+#-dontwarn com.aps.**
+#-keep class com.aps.** {*;}
+#
+#-dontwarn com.autonavi.tbt.**
+#-keep class com.autonavi.tbt.** {*;}
+#
+#-dontwarn com.autonavi.**
+#-keep class com.autonavi.** {*;}
+#
+#-dontwarn com.gci.car.**
+#-keep class com.gci.car.** {*;}
+#
+#-dontwarn com.youhao.YJT.**
+#-keep class com.youhao.YJT.** {*;}
+#
+#-dontwarn com.adapter.**
+#-keep class com.adapter.** {*;}
+#
+#-dontwarn com.dialog.**
+#-keep class com.dialog.** {*;}
+#
+#-dontwarn com.entity.**
+#-keep class com.entity.** {*;}
+#
+#-dontwarn com.interfaces.**
+#-keep class com.interfaces.** {*;}
+#
+#-dontwarn com.ui.**
+#-keep class com.ui.** {*;}
+#
+#-dontwarn com.util.**
+#-keep class com.util.** {*;}
+#
+#-dontwarn com.ui.**
+#-keep class com.ui.** {*;}
+#
+#-dontwarn com.widget.**
+#-keep class com.widget.** {*;}
+#
+#-dontwarn com.lingnanpass.**
+#-keep class com.lingnanpass.** {*;}
+#
+#-dontwarn android_serialport_api.**
+#-keep class android_serialport_api.** {*;}
+#
+#
+#-keep class org.json.** {*;}
+#
+#-dontwarn com.alipay.android.app.lib.**
+#-keep class com.alipay.android.app.lib.** {*;}
+#
+#-keep class **.R$* {
+#	*;
+#}
+# -assumenosideeffects class android.util.Log {
+#
+#      public static boolean isLoggable(java.lang.String,int);
+#
+#      public static int v(...);
+#
+#      public static int i(...);
+#
+#      public static int w(...);
+#
+#      public static int d(...);
+#
+#     public static int e(...);
+#
+#  }
+#
+#

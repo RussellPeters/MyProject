@@ -1,0 +1,147 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:2:1-65:12
+	package
+		ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml
+		INJECTED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml
+		INJECTED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml
+		INJECTED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:8:5-43
+MERGED from [MyProject:gciNutil:unspecified] F:\parttime\MyProject\cameraProject\build\intermediates\exploded-aar\MyProject\gciNutil\unspecified\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		INJECTED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml
+		INJECTED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:8:15-40
+		INJECTED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml
+		INJECTED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:11:5-60
+	android:name
+		ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:11:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:12:5-70
+	android:name
+		ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:12:19-67
+uses-permission#android.permission.INTERNET
+ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:17:5-71
+	android:name
+		ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:17:22-68
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:18:22-65
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:19:5-76
+	android:name
+		ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:19:22-73
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:20:5-86
+	android:name
+		ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:20:22-83
+uses-permission#android.permission.CAMERA
+ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:21:22-62
+uses-permission#android.permission.VIBRATE
+ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:22:5-66
+	android:name
+		ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:22:22-63
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:24:5-74
+	android:name
+		ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:24:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:25:22-65
+application
+ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:29:5-63:19
+MERGED from [MyProject:gciNutil:unspecified] F:\parttime\MyProject\cameraProject\build\intermediates\exploded-aar\MyProject\gciNutil\unspecified\AndroidManifest.xml:11:5-15:19
+	android:label
+		ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:33:9-41
+	android:icon
+		ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:32:9-38
+		REJECTED from [MyProject:gciNutil:unspecified] F:\parttime\MyProject\cameraProject\build\intermediates\exploded-aar\MyProject\gciNutil\unspecified\AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from [MyProject:gciNutil:unspecified] F:\parttime\MyProject\cameraProject\build\intermediates\exploded-aar\MyProject\gciNutil\unspecified\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from [MyProject:gciNutil:unspecified] F:\parttime\MyProject\cameraProject\build\intermediates\exploded-aar\MyProject\gciNutil\unspecified\AndroidManifest.xml:14:9-40
+	tools:replace
+		ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:30:9-37
+	android:name
+		ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:31:9-43
+activity#com.hcm.camera.ui.LoginActivity
+ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:34:9-43:20
+	android:screenOrientation
+		ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:37:13-49
+	android:label
+		ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:36:13-45
+	android:name
+		ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:35:13-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:41:27-74
+activity#com.hcm.camera.ui.MainActivity
+ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:44:9-45:20
+	android:name
+		ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:44:19-50
+activity#com.hcm.camera.ui.CmdActivity
+ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:46:9-47:20
+	android:name
+		ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:46:19-49
+activity#com.hcm.camera.bluetooth.DeviceListActivity
+ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:48:9-49:20
+	android:name
+		ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:48:19-63
+activity#com.hcm.camera.ui.ChatActivity
+ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:50:9-51:20
+	android:name
+		ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:50:19-50
+activity#com.hcm.camera.ui.DecoderVideoActivity
+ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:52:9-55:20
+	android:screenOrientation
+		ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:54:13-50
+	android:name
+		ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:53:13-52
+activity#com.hcm.camera.ui.CameraVideoActivity
+ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:56:9-59:20
+	android:screenOrientation
+		ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:58:13-50
+	android:name
+		ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:57:13-51
+activity#com.hcm.camera.ui.ShowBigImageAcitvity
+ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:61:9-62:20
+	android:name
+		ADDED from F:\parttime\MyProject\cameraProject\src\main\AndroidManifest.xml:61:19-58

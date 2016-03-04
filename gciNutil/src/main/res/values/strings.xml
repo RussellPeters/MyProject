@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="loading">加载中</string>
+    <string name="refresh_pull_down">向下滑动可刷新内容…</string>
+    <string name="refresh_release">释放刷新…</string>
+    <string name="refresh_pull_up">向上滑动可刷新内容…</string>
+
+</resources>

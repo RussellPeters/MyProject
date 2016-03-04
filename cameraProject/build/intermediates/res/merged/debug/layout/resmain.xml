@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+    <!--
+    <com.hc.yy.view.MediaCodecEncoder
+        android:id="@+id/codecsuifaceview"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:gravity="center" >
+    </com.hc.yy.view.MediaCodecEncoder>
+    -->
+
+
+
+    <com.hc.yy.view.VideoView
+        android:id="@+id/h264view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center" />
+<!-- 
+    <com.hc.yy.view.VideoView
+        android:id="@+id/recc"
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:gravity="center" />
+    -->
+
+</LinearLayout>

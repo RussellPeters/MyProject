@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="gplus_colors">
+        <item>@color/gplus_color_1</item>
+        <item>@color/gplus_color_2</item>
+        <item>@color/gplus_color_3</item>
+        <item>@color/gplus_color_4</item>
+    </integer-array>
+    <attr format="reference" name="SwipeBackLayoutStyle"/>
+    <color name="background_tab_pressed">#ffffff</color>
+    <color name="big_red">#CD1E32</color>
+    <color name="black">#ff000000</color>
+    <color name="black_deep">#FF000000</color>
+    <item name="blue" type="color">#1d83ce</item>
+    <color name="blue_200">#90CAF9</color>
+    <color name="blue_500">#2196F3</color>
+    <color name="blue_btn_pressed">#1085b6</color>
+    <color name="bottom_bar_normal_bg">#2D2F31</color>
+    <color name="bottom_text_color_normal">#ffffff</color>
+    <color name="btn_blue_normal">#1e90ff</color>
+    <color name="btn_blue_pressed">#0066FF</color>
+    <color name="btn_gray_normal">#c0c0c0</color>
+    <color name="btn_gray_pressed">#666667</color>
+    <color name="btn_gray_pressed_status">#b5b5b6</color>
+    <color name="btn_green_noraml">#68C270</color>
+    <color name="btn_green_pressed">#6FCD78</color>
+    <color name="btn_login_normal">#007086</color>
+    <color name="btn_login_pressed">#303744</color>
+    <color name="btn_logout_normal">#d33f3f</color>
+    <color name="btn_logout_pressed">#DA5A4D</color>
+    <color name="btn_pressed_green_solid">#B6DA53</color>
+    <color name="btn_register_normal">#2dafa3</color>
+    <color name="btn_register_pressed">#4ebcd3</color>
+    <color name="btn_white_normal">#f7f8f8</color>
+    <color name="btn_white_pressed">#b5b5b6</color>
+    <color name="card_normal">#e6ffffff</color>
+    <color name="card_pressed">#19000000</color>
+    <color name="common_bg">#fcfcfc</color>
+    <color name="common_bottom_bar_normal_bg">#2d2f31</color>
+    <color name="common_bottom_bar_selected_bg">#161718</color>
+    <color name="common_botton_bar_blue">#2ea7e0</color>
+    <color name="common_top_bar_blue">#22292c</color>
+    <color name="deep_blue">#006789</color>
+    <color name="deepblue_btn_pressed">#16b0f1</color>
+    <color name="dialog_bg">#FAFAFB</color>
+    <color name="dialog_bg_pressed">#ffffffff</color>
+    <color name="divider_list">#cccccc</color>
+    <item name="drawer_bg_color_bottom" type="color">#ff1e2733</item>
+    <item name="drawer_bg_color_divide" type="color">#ff243040</item>
+    <item name="drawer_bg_color_normal" type="color">#00ffffff</item>
+    <item name="drawer_bg_color_press" type="color">#ffeeeeee</item>
+    <item name="drawer_bg_color_white" type="color">#ff2d353f</item>
+    <color name="error_item_color">#F6EBE6</color>
+    <color name="gplus_color_1">#3e802f</color>
+    <color name="gplus_color_2">#f4b400</color>
+    <color name="gplus_color_3">#427fed</color>
+    <color name="gplus_color_4">#b23424</color>
+    <item name="gray" type="color">#FF323A45</item>
+    <color name="gray_normal">#666667</color>
+    <color name="gray_pressed">#b5b5b6</color>
+    <color name="green_6a">#FF2c5aa9</color>
+    <color name="green_btn_pressed">#109e00</color>
+    <color name="grid_state_focused">#80000000</color>
+    <color name="grid_state_pressed">#1Affffff</color>
+    <color name="history_query_green">#AAF8AA</color>
+    <color name="history_query_red">#F8AAAA</color>
+    <color name="history_query_yellow">#F8E6AA</color>
+    <color name="ldrawer_color">#FFFFFF</color>
+    <color name="light_blue">#4fc1e9</color>
+    <color name="light_gray_bg">#F5F5F5</color>
+    <color name="light_gray_line">#ECECEC</color>
+    <color name="list_item_blue">#B2E0F4</color>
+    <color name="list_item_gray">#E0E0E0</color>
+    <color name="loading_hui">#535353</color>
+    <color name="main_menu_gray">#95AEB4</color>
+    <color name="map_light_blue">#79CFF0</color>
+    <color name="map_location">#00000000</color>
+    <color name="notice_red">#CF0000</color>
+    <color name="orange">#FFA500</color>
+    <color name="orange_btn_pressed">#bd6910</color>
+    <color name="red">#D96D77</color>
+    <color name="red_200">#EF9A9A</color>
+    <color name="red_500">#F44336</color>
+    <color name="red_btn_pressed">#bb113d</color>
+    <color name="report_gray">#A5A5A5</color>
+    <color name="report_green">#00C12C</color>
+    <color name="report_orange">#EECA00</color>
+    <color name="ry_red">#9C1F31</color>
+    <color name="secondary_text">#ff999999</color>
+    <color name="solid_white">#ffffffff</color>
+    <color name="tab_bg">#006789</color>
+    <color name="tab_btn_click">#30B8F3</color>
+    <color name="tab_btn_normal">#00526E</color>
+    <color name="text_color">#414141</color>
+    <item name="title_bg" type="color">#FF2c5aa9</item>
+    <color name="top_bar_normal_bg">#4ebcd3</color>
+    <color name="transparent">#00000000</color>
+    <color name="voip_interface_text_color">#bababa</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellow_btn_pressed">#b99d00</color>
+    <declare-styleable name="ArcProgress"><attr format="integer" name="arc_progress"/><attr format="float" name="arc_angle"/><attr format="dimension" name="arc_stroke_width"/><attr format="integer" name="arc_max"/><attr format="color" name="arc_unfinished_color"/><attr format="color" name="arc_finished_color"/><attr format="dimension" name="arc_text_size"/><attr format="color" name="arc_text_color"/><attr format="string" name="arc_suffix_text"/><attr format="dimension" name="arc_suffix_text_size"/><attr format="dimension" name="arc_suffix_text_padding"/><attr format="string" name="arc_bottom_text"/><attr format="dimension" name="arc_bottom_text_size"/></declare-styleable>
+    <declare-styleable name="CounterView"><attr format="string" name="prefix"/><attr format="string" name="suffix"/><attr format="float" name="timeInterval"/><attr format="float" name="incrementValue"/><attr format="float" name="startValue"/><attr format="float" name="endValue"/><attr format="boolean" name="formatText"/><attr format="boolean" name="autoStart"/><attr format="enum" name="type"><enum name="integer" value="0"/><enum name="decimal" value="1"/><enum name="both" value="2"/></attr><attr name="android:text"/></declare-styleable>
+    <declare-styleable name="Emojicon"><attr format="dimension" name="emojiconSize"/><attr format="integer" name="emojiconTextStart"/><attr format="integer" name="emojiconTextLength"/></declare-styleable>
+    <declare-styleable name="ItemCardView"><attr format="string" name="card_name"/><attr format="reference" name="card_image"/></declare-styleable>
+    <declare-styleable name="RippleView"><attr format="integer" name="rv_alpha"/><attr format="integer" name="rv_framerate"/><attr format="integer" name="rv_rippleDuration"/><attr format="integer" name="rv_zoomDuration"/><attr format="color" name="rv_color"/><attr format="boolean" name="rv_centered"/><attr format="enum" name="rv_type"><enum name="simpleRipple" value="0"/><enum name="doubleRipple" value="1"/><enum name="rectangle" value="2"/></attr><attr format="dimension" name="rv_ripplePadding"/><attr format="boolean" name="rv_zoom"/><attr format="float" name="rv_zoomScale"/></declare-styleable>
+    <declare-styleable name="RoundCornerProgress"><attr format="integer" name="progress1"/><attr format="dimension" name="backgroundPadding"/><attr format="dimension" name="backgroundRadius"/><attr format="integer" name="max"/><attr format="integer" name="iconSrc"/><attr format="dimension" name="iconSize"/><attr format="dimension" name="iconPadding"/><attr format="color" name="headerColor"/><attr format="color" name="progressColor"/><attr format="color" name="backgroundColor"/><attr format="color" name="textProgressColor"/><attr format="string" name="textProgress"/><attr format="string" name="textProgressUnit"/><attr format="dimension" name="textProgressSize"/><attr format="dimension" name="textProgressWidth"/><attr format="dimension" name="textProgressPadding"/><attr format="boolean" name="autoTextChange"/></declare-styleable>
+    <declare-styleable name="SlidingTab"><attr format="color" name="pstsIndicatorColorWe"/><attr format="color" name="pstsUnderlineColorWe"/><attr format="color" name="pstsDividerColorWe"/><attr format="dimension" name="pstsIndicatorHeightWe"/><attr format="dimension" name="pstsUnderlineHeightWe"/><attr format="dimension" name="pstsDividerPaddingWe"/><attr format="dimension" name="pstsTabPaddingLeftRightWe"/><attr format="dimension" name="pstsScrollOffsetWe"/><attr format="reference" name="pstsTabBackgroundWe"/><attr format="color" name="pstsSelectedTabTextColorWe"/><attr format="boolean" name="pstsTabTextBoldWe"/><attr format="dimension" name="pstsTabRadiusTopWe"/><attr format="dimension" name="pstsTabRadiusBottomWe"/><attr format="boolean" name="pstsShouldExpandWe"/><attr format="boolean" name="pstsTextAllCapsWe"/></declare-styleable>
+    <declare-styleable name="SwipeBackLayout"><attr format="dimension" name="edge_size"/><attr name="edge_flag"><enum name="left" value="0"/><enum name="right" value="1"/><enum name="bottom" value="2"/><enum name="all" value="3"/></attr><attr format="reference" name="shadow_left"/><attr format="reference" name="shadow_right"/><attr format="reference" name="shadow_bottom"/></declare-styleable>
+    <declare-styleable name="Themes"><attr format="reference" name="waveViewStyle"/></declare-styleable>
+    <declare-styleable name="WaveView"><attr format="color" name="above_wave_color"/><attr format="color" name="blow_wave_color"/><attr format="integer" name="progress"/><attr format="enum" name="wave_length"><enum name="large" value="1"/><enum name="middle" value="2"/><enum name="little" value="3"/></attr><attr format="enum" name="wave_height"><enum name="large" value="1"/><enum name="middle" value="2"/><enum name="little" value="3"/></attr><attr format="enum" name="wave_hz"><enum name="fast" value="1"/><enum name="normal" value="2"/><enum name="slow" value="3"/></attr></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="badge_spacing">3.0dip</dimen>
+    <dimen name="bounceTravelDistance">5.0dip</dimen>
+    <dimen name="button_padding">8.0dip</dimen>
+    <dimen name="call_button_padding_left">25dp</dimen>
+    <dimen name="call_button_padding_right">25dp</dimen>
+    <dimen name="call_button_padding_vertical">10dp</dimen>
+    <dimen name="card_inset">10.0dip</dimen>
+    <dimen name="chevron_padding">5.0dip</dimen>
+    <dimen name="divider_thickness">1.0dip</dimen>
+    <dimen name="field_margin_right">5dp</dimen>
+    <dimen name="field_textsize">14sp</dimen>
+    <dimen name="font_size_default">14.0sp</dimen>
+    <dimen name="font_size_large">16.0sp</dimen>
+    <dimen name="font_size_small">12.0sp</dimen>
+    <dimen name="font_size_xsmall">10.0sp</dimen>
+    <dimen name="height_row_weixin">59dp</dimen>
+    <dimen name="height_top_bar">48dp</dimen>
+    <dimen name="icon_spacing">4.0dip</dimen>
+    <dimen name="image_margin_right">6.0dip</dimen>
+    <dimen name="image_margin_top">2.0dip</dimen>
+    <dimen name="image_thumbnail_size">100dp</dimen>
+    <dimen name="image_thumbnail_spacing">1dp</dimen>
+    <dimen name="inline_map_height">100.0dip</dimen>
+    <dimen name="list_preferred_height">44.0dip</dimen>
+    <dimen name="list_row_padding">10.0dip</dimen>
+    <dimen name="map_height">150.0dip</dimen>
+    <dimen name="margin_chat_activity">5dp</dimen>
+    <dimen name="mini_user_image_size">32.0dip</dimen>
+    <dimen name="onebox_news_image">60.0dip</dimen>
+    <dimen name="padding_search_bar">5dp</dimen>
+    <dimen name="photo_attachment_size">72.0dip</dimen>
+    <dimen name="reply_to_height">28.0dip</dimen>
+    <dimen name="sidebar_text_size">10dp</dimen>
+    <dimen name="size_avatar">40dp</dimen>
+    <dimen name="standard_spacing">5.0dip</dimen>
+    <dimen name="tap_to_refresh_height">64.0dip</dimen>
+    <dimen name="text_single_line_height">18.0sp</dimen>
+    <dimen name="toolbar_button_width">160.0dip</dimen>
+    <dimen name="user_image_size">48.0dip</dimen>
+    <dimen name="widget_header_height">44.0dip</dimen>
+    <item name="gray_drawable" type="drawable">#FF2c5aa9</item>
+    <drawable name="transparent">#00000000</drawable>
+    <integer name="bounceAnimTime">120</integer>
+    <integer name="full_name_max_length">20</integer>
+    <integer name="hideAnimTime">150</integer>
+    <integer name="revealAnimTime">150</integer>
+    <integer name="rotateAnimTime">175</integer>
+    <string name="app_name">视频</string>
+    <string name="attach_file">文件</string>
+    <string name="attach_location">位置</string>
+    <string name="attach_picture">图片</string>
+    <string name="attach_smile">表情</string>
+    <string name="attach_take_pic">拍照</string>
+    <string name="attach_voice_call">语音电话</string>
+    <string name="back">返回</string>
+    <string name="button_add">添加</string>
+    <string name="button_cancel">取消</string>
+    <string name="button_logout">退出登录</string>
+    <string name="button_pushtotalk">按住说话</string>
+    <string name="button_save">保存</string>
+    <string name="button_search">查找</string>
+    <string name="button_send">发送</string>
+    <string name="button_uploadlog">上传运行日志</string>
+    <string name="cancel">取消</string>
+    <string name="clear_all_records">是否清空所有聊天记录？</string>
+    <string name="clear_records">清空记录</string>
+    <string name="confirm_forward_to">确定转发到：%1$s ?</string>
+    <string name="confirm_resend">确认重发该信息？</string>
+    <string name="connect_conflict">同一帐号已在其他设备登录</string>
+    <string name="connect_failuer_toast">请检查网络或稍候重试</string>
+    <string name="copy">复制</string>
+    <string name="copy_message">复制消息</string>
+    <string name="d">图片描述</string>
+    <string name="delete">删除</string>
+    <string name="delete_message">删除消息</string>
+    <string name="delete_video">删除视频</string>
+    <string name="delete_voice">删除语音</string>
+    <string name="dissolution_group_hint">退出后，此群将被解散</string>
+    <string name="em_user_remove">此用户已被移除</string>
+    <string name="exit_group">退出</string>
+    <string name="exit_group_hint">退出后，将不再接收此群聊信息</string>
+    <string name="file">[文件]</string>
+    <string name="forward">转发</string>
+    <string name="lastUpdateTime">最近更新：%s</string>
+    <string name="load_full">已加载全部</string>
+    <string name="loading">加载中</string>
+    <string name="location_message">位置信息</string>
+    <string name="location_prefix">[我的位置]</string>
+    <string name="location_recv">[%1$s的位置]</string>
+    <string name="logout">退出登录</string>
+    <string name="logout_hint">退出后不会删除任何历史数据，下次登录依然可以使用本账号</string>
+    <string name="more">加载中</string>
+    <string name="move_up_to_cancel">手指上滑，取消发送</string>
+    <string name="network_isnot_available">网络不可用</string>
+    <string name="network_unavailable">网络连接不可用，请检查网络</string>
+    <string name="no_data">暂无数据</string>
+    <string name="ok">确定</string>
+    <string name="picture">[图片]</string>
+    <string name="prompt">提示</string>
+    <string name="pull_to_refresh">下拉可以刷新</string>
+    <string name="recoding_fail">录音失败，请重试！</string>
+    <string name="recording_video">录制视频</string>
+    <string name="refresh_pull_down">向下滑动可刷新内容…</string>
+    <string name="refresh_pull_up">向上滑动可刷新内容…</string>
+    <string name="refresh_release">释放刷新…</string>
+    <string name="release_to_cancel">松开手指，取消发送</string>
+    <string name="release_to_refresh">松开可以刷新</string>
+    <string name="resend">重发</string>
+    <string name="save">保存</string>
+    <string name="search_header">搜</string>
+    <string name="select_contacts">选择联系人</string>
+    <string name="send_fail">发送消息失败,</string>
+    <string name="text_ack_msg">已读</string>
+    <string name="text_delivered_msg">送达</string>
+    <string name="user_card">名片</string>
+    <string name="video">[视频]</string>
+    <string name="voice">[语音]</string>
+    <string name="voice_call">[语音通话]</string>
+    <style name="AnimBottom" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/push_bottom_in</item>
+        <item name="android:windowExitAnimation">@anim/push_bottom_out</item>
+    </style>
+    <style name="AnimFade" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/fade_in</item>
+        <item name="android:activityOpenExitAnimation">@anim/hold</item>
+        <item name="android:activityCloseExitAnimation">@anim/fade_out</item>
+    </style>
+    <style name="AnimFade2" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/slide_in_from_right</item>
+        <item name="android:activityOpenExitAnimation">@anim/slide_out_to_left</item>
+        <item name="android:activityCloseExitAnimation">@anim/slide_out_to_right</item>
+        <item name="android:activityCloseEnterAnimation">@anim/slide_in_from_left</item>
+    </style>
+    <style name="AnimHead" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/head_in</item>
+        <item name="android:windowExitAnimation">@anim/head_out</item>
+    </style>
+    <style name="AnimTop" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/push_top_in</item>
+        <item name="android:windowExitAnimation">@anim/push_top_out</item>
+    </style>
+    <style name="AnimTop2" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/push_top_in2</item>
+        <item name="android:windowExitAnimation">@anim/push_top_out2</item>
+    </style>
+    <style name="Anim_style" parent="android:Theme.NoTitleBar.Fullscreen">
+        <item name="android:windowAnimationStyle">@style/AnimFade</item>
+    </style>
+    <style name="Anim_style2" parent="android:Theme.NoTitleBar">
+        <item name="android:windowAnimationStyle">@style/AnimFade</item>
+    </style>
+    <style name="AnimationPreview">
+        <item name="android:windowEnterAnimation">@anim/fade_in</item>
+        <item name="android:windowExitAnimation">@anim/fade_out</item>
+    </style>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+    <style name="HeadScale" parent="android:Theme.Dialog">
+        <item name="android:windowAnimationStyle">@style/AnimHead</item>
+        <item name="android:windowFrame">@null</item>
+        <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <!-- 模糊 -->
+    </style>
+    <style name="MyAlertDialog" parent="android:Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="MyDialogStyle">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="MyDialogStyleBottom" parent="android:Theme.Dialog">
+        <item name="android:windowAnimationStyle">@style/AnimBottom</item>
+        <item name="android:windowFrame">@null</item>
+        <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 背景透明 -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- 模糊 -->
+    </style>
+    <style name="MyDialogStyleTop" parent="android:Theme.Dialog">
+        <item name="android:windowAnimationStyle">@style/AnimTop2</item>
+        <item name="android:windowFrame">@null</item>
+        <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 背景透明 -->
+        <item name="android:backgroundDimEnabled">false</item>
+        <!-- 模糊 -->
+    </style>
+    <style name="bottom_line_edit_text_style" parent="@android:style/Widget.EditText">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">6.0dip</item>
+        <item name="android:paddingTop">6.0dip</item>
+        <item name="android:paddingRight">6.0dip</item>
+        <item name="android:paddingBottom">6.0dip</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:background">@drawable/edit_text_bg</item>
+    </style>
+    <style name="chat_content_date_style">
+        <item name="android:minHeight">50dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:lineSpacingExtra">2dp</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:background">#bfbfbf</item>
+    </style>
+    <style name="chat_text_date_style">
+        <item name="android:padding">2dp</item>
+        <item name="android:paddingTop">2dip</item>
+        <item name="android:paddingBottom">2dip</item>
+        <item name="android:paddingLeft">12dip</item>
+        <item name="android:paddingRight">12dip</item>
+        <item name="android:textColor">@color/btn_gray_normal</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:background">@drawable/timestampe_bg</item>
+    </style>
+    <style name="chat_text_name_style">
+        <item name="android:textColor">#818181</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="customProgressBar" parent="@android:style/Widget.ProgressBar.Small">
+        <item name="android:indeterminateDrawable">@drawable/custom_progress_bar</item>
+        <item name="android:layout_width">21dip</item>
+        <item name="android:layout_height">21dip</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+    <style name="devide_line_eee">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1.5dp</item>
+        <item name="android:background">#eee</item>
+    </style>
+    <style name="horizontal_slide" parent="android:Theme.NoTitleBar">
+        <item name="android:windowAnimationStyle">@style/AnimFade2</item>
+    </style>
+    <style name="nornal_style" parent="android:Theme.NoTitleBar"/>
+</resources>

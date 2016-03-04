@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:background="@drawable/corners_bg_normal"
+        android:orientation="vertical" >
+        
+    <DatePicker 
+        android:id="@+id/date_picker" 
+        android:layout_width="wrap_content" 
+        android:layout_height="wrap_content"    
+        android:calendarViewShown="false"
+        android:layout_margin="5dp"     
+         /> 
+   
+    <TimePicker 
+        android:id="@+id/time_picker" 
+        android:layout_width="wrap_content" 
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"         
+         /> 
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/light_gray_line" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:gravity="center"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:id="@+id/linearLayout_line"
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:layout_centerInParent="true"
+                    android:background="@color/light_gray_line"
+                    android:orientation="vertical" />
+
+                <Button
+                    android:id="@+id/dialog_btn_right"
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:layout_alignBaseline="@+id/dialog_btn_left"
+                    android:layout_alignBottom="@+id/dialog_btn_left"
+                    android:layout_alignParentRight="true"
+                    android:layout_toRightOf="@+id/linearLayout_line"
+                    android:background="@drawable/corners_bg_selector"
+                    android:paddingBottom="12dp"
+                    android:paddingTop="12dp"
+                    android:text="取消" />
+
+                <Button
+                    android:id="@+id/dialog_btn_left"
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_toLeftOf="@+id/linearLayout_line"
+                    android:background="@drawable/corners_bg_selector"
+                    android:paddingBottom="12dp"
+                    android:paddingTop="12dp"
+                    android:text="确定" />
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

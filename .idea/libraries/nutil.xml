@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="nutil">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/gciNutil/libs/nutil.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

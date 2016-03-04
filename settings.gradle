@@ -1,0 +1,2 @@
+include ':gciNutil'
+include ':cameraProject'
